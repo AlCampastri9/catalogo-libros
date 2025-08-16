@@ -1,2 +1,2 @@
-# catalogo-libros
-Proyecto de catalogo de libros en consola con PostgreSQL y Spring Boot
+# Literalura
+Proyecto de catálogo de libros en consola con Spring Boot y PostgreSQL.
